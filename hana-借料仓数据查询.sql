@@ -3,7 +3,7 @@
        la~lgtyp   "仓储类型
        lq~lgpla   "仓位
        lq~matnr   "物料
---     lq~maktx   "物料描述
+  *    lq~maktx   "物料描述
        lq~verme   "可用库存
        lq~werks   "工厂
        lq~lgort   "库存地点
